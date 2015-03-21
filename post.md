@@ -1,5 +1,5 @@
 
-<h4><em>Keep a look out for updated video to show use of new adapter here in the <a href="https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg">Appcelerator Alloy Video Series</a></em></h4>
+<h5><em>Keep a look out for updated video to show use of new adapter here in the <a href="https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg">Appcelerator Alloy Video Series</a></em></h5>
 ----
 ###Quick Overview
 We all have become accustom to using promises to avoid the callback hell so here we have an example of an [ACS adapter](https://github.com/aaronksaunders/ci.alloy.adapter.two) that supports promises using the [$q javascript library](https://github.com/kriskowal/q/blob/v1/README.md).
